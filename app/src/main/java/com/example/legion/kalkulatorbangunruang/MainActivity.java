@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         tombolLingkaran = findViewById(R.id.btn_lingkaran);
         tombolPersegi = findViewById(R.id.btn_persegi);
 
-        // function tomboli
+        // function tombolia
         tombolSegitiga.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
